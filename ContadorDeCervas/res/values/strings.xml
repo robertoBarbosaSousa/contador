@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A Conta!?</string>
+
+    <string-array name="mensagens">
+        <item>Ta com sede heim...</item>
+        <item>Tomara que seja de lata...</item>
+        <item>Olha...quando esse alcool pegar...</item>
+        <item>Não vai cair por ai..</item>
+        <item>Quem vai levar o carro?</item>
+        <item>Aquilo no céu é um disco voador?</item>
+        <item>Não vai mandar mensagem pra ninguem nesse estado..</item>
+        <item>Cuidado, dizem que cú de bêbado não tem dono..</item>
+        <item>Me empresta R$ 1000 ai?</item>
+        <item>Você ainda ta enxergando essas mensagens?</item>
+        <item>Como você consegue acertar esses botões?</item>
+    </string-array>
+
+</resources>
